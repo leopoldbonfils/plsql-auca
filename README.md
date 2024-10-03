@@ -49,12 +49,11 @@ ALTER PLUGGABLE DATABASE le_to_delete_pdb CLOSE;
 Drop the PDB:
 DROP PLUGGABLE DATABASE le_to_delete_pdb INCLUDING DATAFILES;
 
-![Screenshot (121)](https://github.com/user-attachments/assets/1f4582f5-02ed-424b-a6bd-d65ebe2aa174)
-![Screenshot (122)](https://github.com/user-attachments/assets/b6f438c1-8d7c-451c-b83e-c38624b014b3)
-![Screenshot (123)](https://github.com/user-attachments/assets/5d2920d0-7ce0-447d-9c12-bc630128e9ea)
-![Screenshot (124)](https://github.com/user-attachments/assets/ac31fccf-bf03-4e33-b6f4-2356d8c4bfcb)
 
-
+![Screenshot (121)](https://github.com/user-attachments/assets/bf1b45be-9577-466b-8419-e9c08e3a78c2)
+![Screenshot (122)](https://github.com/user-attachments/assets/398c33b1-37c1-4be7-85b0-9d03b021f516)
+![Screenshot (123)](https://github.com/user-attachments/assets/3c7a291d-139e-4ea9-bf3a-410db4452171)
+![Screenshot (124)](https://github.com/user-attachments/assets/0ac38ddb-c8c7-4242-ae59-ae70915a5041)
 
 
 
